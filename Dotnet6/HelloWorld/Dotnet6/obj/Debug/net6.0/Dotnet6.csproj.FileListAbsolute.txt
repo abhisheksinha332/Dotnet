@@ -1,0 +1,15 @@
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\bin\Debug\net6.0\Dotnet6.exe
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\bin\Debug\net6.0\Dotnet6.deps.json
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\bin\Debug\net6.0\Dotnet6.runtimeconfig.json
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\bin\Debug\net6.0\Dotnet6.dll
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\bin\Debug\net6.0\Dotnet6.pdb
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.csproj.AssemblyReference.cache
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.AssemblyInfoInputs.cache
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.AssemblyInfo.cs
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.csproj.CoreCompileInputs.cache
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.dll
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\refint\Dotnet6.dll
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.pdb
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\Dotnet6.genruntimeconfig.cache
+C:\Users\v-abhissinha\Dotnet\Dotnet6\HelloWorld\Dotnet6\obj\Debug\net6.0\ref\Dotnet6.dll
